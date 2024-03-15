@@ -16,7 +16,7 @@
         "key": "tonkeeper"
       }
     ],
-    "platforms": ["ios", "android", "chrome", "firefox"]
+    "platforms": ["ios", "android", "chrome", "firefox", "safari", "windows", "macos", "linux"]
   },
   {
     "app_name": "tonhub",
@@ -35,5 +35,17 @@
       }
     ],
     "platforms": ["ios", "android"]
+  },
+  {
+    "app_name": "mytonwallet",
+    "name": "MyTonWallet",
+    "image": "https://mytonwallet.io/icon-256.png",
+    "about_url": "https://mytonwallet.io",
+    "bridge": [
+      {
+        "type": "js",
+        "key": "mytonwallet"
+      }
+    ]
   }
 ]
