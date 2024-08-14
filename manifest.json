@@ -1,5 +1,7 @@
 {
   "url": "https://lizartsworld.com",
   "name": "4Play",
-  "iconUrl": "https://raw.githubusercontent.com/Kkkasum/tonconnect-data/main/4Play.png"
+  "iconUrl": "https://raw.githubusercontent.com/Kkkasum/tonconnect-data/main/4Play.png",
+  "termsOfUseUrl": "https://lizartsworld.com",
+  "privacyPolicyUrl": "https://lizartsworld.com"
 }
